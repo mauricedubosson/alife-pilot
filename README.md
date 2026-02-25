@@ -25,3 +25,10 @@ Emergent: Quantum senescence, eternal thought graft.
 ContributingFork, experiment (e.g., to eucaryotes), PR welcome. DM @mauricedubosson
  on X.LicenseMIT – free to use/modify with attribution.
 
+Model Description: master_agent.pt
+This file contains the optimized neural weights of the "Master Agent" evolved through 5,000,000 generations of the Dubosson-Feynman Engine (DFE).
+Architecture: Multi-Layer Perceptron (MLP) with 32 hidden units and Tanh activation.
+Inputs: 2-dimensional tensor 
+ representing the Scalar Field and Internal Voltage.
+Output: 1-dimensional tensor representing the Adaptive Action.
+Performance: Achieved a peak fitness of 0.9994 and demonstrated a non-linear sigmoid response to environmental entropy, effectively filtering the Feynman Field noise.
